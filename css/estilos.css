@@ -1,0 +1,68 @@
+body {
+    /* estilos para cuando definamos una foto de fondo 
+    background: url(../images/fondo.yb.jpg);
+    background-size: cover;
+    height: 100vh; */
+    background-color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+/* Estilos de la barra de navegación */
+.navbar {
+    background-color: #ffffff;
+    border: 0.8px solid #007bff4b;
+    padding: 0 20px;
+    cursor: pointer;
+}
+.navbar-brand {
+    padding: 0;
+    margin: 0;
+}
+.nav-link {
+    color: #007bff;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 8px 0;
+}
+@media (min-width: 768px) {
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    }
+}
+a:hover {
+    color: #007bff;
+    font-size: 1.2rem;
+}
+.nav-item:hover {
+    border-bottom: 2.5px solid #007bff;
+}
+@media only screen and (min-width: 768px) { 
+    /* Para escritorio */
+    .nav-item {
+    padding: 11px 7px;
+    height: 75px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 35px;
+    }
+}
+#logo {
+    width: 30%;
+}
+.navbar-toggler-icon {
+    border: 1px solid rgb(5, 5, 80);
+}
+.fa-bars {
+    padding: 5px;
+}
+main {
+    margin-top: 0;
+}
+/* Estilos de página de contacto*/
+section {
+    background-color: #007bff63 !important;
+}
