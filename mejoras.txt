@@ -3,3 +3,6 @@
 Poner los íconos de Skype, Linked In y Twitter.
 - El nav active, que se agrande la fuente al estar parados en la página (como
 ocurre con el hover). 
+
+En la pagina de contacto poner direccion telefono mail de infomacion y el mapa de google maps, 
+en una col de 6

@@ -31,13 +31,13 @@ body {
     padding-left: 0;
     }
 }
-a:hover {
+
+.nav-item:hover {
+    border-bottom: 2.5px solid #007bff;
     color: #007bff;
     font-size: 1.2rem;
 }
-.nav-item:hover {
-    border-bottom: 2.5px solid #007bff;
-}
+
 @media only screen and (min-width: 768px) { 
     /* Para escritorio */
     .nav-item {
@@ -63,6 +63,6 @@ main {
     margin-top: 0;
 }
 /* Estilos de página de contacto*/
-section {
+.contacto {
     background-color: #007bff63 !important;
 }
