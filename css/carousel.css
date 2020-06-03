@@ -9,19 +9,21 @@
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
-  color: #ffffff;
+  color: #000000;
 }
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
 }
-.carousel-item > img {
+.carousel-item img {
   position: absolute;
   top: 0;
   left: 0;
   min-width: 100%;
   height: 32rem;
+  opacity: 0.75;
+  -webkit-filter: blur(0.5px);
 }
 
 
@@ -78,17 +80,25 @@
     margin-top: 7rem;
   }
 }
+
 rect {
     width: 100%;
     height: 100%;
-    fill: #007bffb0;
 }
+
 .btn-primary {
     color: #007bff;
     background-color: #ffffff;
-    border-color: #ffffff;
+    border: 2px solid #007bff;
 }
+
 .btn-primary:hover {
     background-color: #053568;
     border-color: #053568;
+}
+
+@media (max-width:767px) {
+  .carousel-caption p, h1 {
+    text-align: left;
+  }
 }
