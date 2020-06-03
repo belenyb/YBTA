@@ -97,8 +97,9 @@ rect {
     border-color: #053568;
 }
 
-@media (max-width:767px) {
-  .carousel-caption p, h1 {
-    text-align: left;
-  }
-}
+
+/*-webkit-filter: blur(3px); //change the value according to what suits the best
+    -moz-filter: blur(3px); //change the value according to what suits the best
+    -o-filter: blur(3px); //change the value according to what suits the best
+    -ms-filter: blur(3px); //change the value according to what suits the best
+    filter: blur(3px); //change the value according to what suits the best*/
