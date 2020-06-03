@@ -92,3 +92,10 @@ rect {
     background-color: #053568;
     border-color: #053568;
 }
+
+
+/*-webkit-filter: blur(3px); //change the value according to what suits the best
+    -moz-filter: blur(3px); //change the value according to what suits the best
+    -o-filter: blur(3px); //change the value according to what suits the best
+    -ms-filter: blur(3px); //change the value according to what suits the best
+    filter: blur(3px); //change the value according to what suits the best*/
