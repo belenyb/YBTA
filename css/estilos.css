@@ -14,7 +14,6 @@ body {
     height: 100vh; */
     background-color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
-    
     padding-top: 4.5rem;
 }
 
@@ -417,3 +416,23 @@ main {
 }
 
 /* ---------------------------------------------- Fin de estilos quienes somos -------------------------------------------------*/
+
+/* ---------------------------------------------- Fin de estilos servicios -------------------------------------------------*/
+
+.servicios h3, h2 {
+  color: #007bff;
+  font-weight: 600;
+}
+
+.servicios h4 {
+  text-decoration: underline #007bff; 
+}
+
+.servicios ul {
+  list-style: none;
+}
+
+.servicios i {
+  color: #007bff;
+}
+/* ---------------------------------------------- Fin de estilos servicios -------------------------------------------------*/
