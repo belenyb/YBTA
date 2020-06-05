@@ -1,3 +1,13 @@
+/*---------------------------------------- PALETA DE COLORES -------------------------------------------------------
+Celeste: #007bff
+celeste original: #19a6c7
+Azul: #053568
+Gris claro: #96a2b2
+Gris oscuro: #737373
+Blanco opaco: 
+dark(footer): #26272b
+*/
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -91,20 +101,4 @@ rect {
     height: 100%;
 }
 
-.btn-primary {
-    color: #007bff;
-    background-color: #ffffff;
-    border: 2px solid #007bff;
-}
 
-.btn-primary:hover {
-    background-color: #053568;
-    border-color: #053568;
-}
-
-
-/*-webkit-filter: blur(3px); //change the value according to what suits the best
-    -moz-filter: blur(3px); //change the value according to what suits the best
-    -o-filter: blur(3px); //change the value according to what suits the best
-    -ms-filter: blur(3px); //change the value according to what suits the best
-    filter: blur(3px); //change the value according to what suits the best*/
