@@ -1,5 +1,6 @@
 /*---------------------------------------- PALETA DE COLORES -------------------------------------------------------
 Celeste: #007bff
+celeste original: #19a6c7
 Azul: #053568
 Gris claro: #96a2b2
 Gris oscuro: #737373
@@ -23,10 +24,21 @@ body {
   }
 }
 
+.btn-primary {
+  color: #19a6c7;
+  background-color: #ffffff;
+  border: 2px solid #19a6c7;
+}
+
+.btn-primary:hover {
+  background-color: #053568;
+  border-color: #053568;
+}
+
 /* -----------------------------------------Estilos de la barra de navegación--------------------------------------------- */
 .navbar {
     background-color: #ffffff;
-    border: 0.8px solid #007bff4b;
+    border: 0.8px solid #19a6c74b;
     padding: 0 20px;
     cursor: pointer;
 }
@@ -35,7 +47,7 @@ body {
     margin: 0;
 }
 .nav-link {
-    color: #007bff;
+    color: #19a6c7 !important;
     font-weight: 700;
     font-size: 15px;
     padding: 8px 0;
@@ -48,8 +60,8 @@ body {
 }
 
 .nav-item:hover {
-    border-bottom: 2.5px solid #007bff;
-    color: #007bff;
+    border-bottom: 2.5px solid #19a6c7;
+    color: #19a6c7;
     font-size: 1.2rem;
 }
 
@@ -75,7 +87,7 @@ body {
 
 .fa-bars {
     padding: 5px;
-    color: #007bff;
+    color: #19a6c7;
 }
 main {
     margin-top: 0;
@@ -90,7 +102,7 @@ main {
 .header {
   	height: 45vh;
 	  background: rgb(5,53,104);
-    background: linear-gradient(194deg, rgba(5,53,104,1) 0%, rgba(0,123,255,0.8715861344537815) 37%, rgba(0,123,255,1) 100%);
+    background: linear-gradient(194deg, rgba(5,53,104,1) 0%, rgba(0,123,255,0.8715861344537815) 37%, #19a6c7 100%);
 	  background-size: cover;
   	background-position: top;
   	position: relative;
@@ -242,7 +254,7 @@ main {
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
-  color:#3366cc;
+  color:#19a6c7;
   text-decoration:none;
 }
 .footer-links.inline li
@@ -316,7 +328,7 @@ main {
 .social-icons a:active,.social-icons a:focus,.social-icons a:hover
 {
   color:#fff;
-  background-color:#007bff
+  background-color:#19a6c7
 }
 .social-icons.size-sm a
 {
@@ -328,7 +340,7 @@ main {
 
 .social-icons a:hover
 {
-  background-color:#007bff
+  background-color:#19a6c7
 }
 
 @media (max-width:767px)
@@ -380,7 +392,7 @@ main {
   z-index: 1;
   position: relative;
   padding: 10px;
-  border: 2px solid #007bff;
+  border: 2px solid #19a6c7;
 }
 
 .snip1515 .profile-image img {
@@ -419,16 +431,44 @@ main {
 }
 
 /* ---------------------------------------------- Fin de estilos quienes somos -------------------------------------------------*/
+/* nuestros valores quotebox*/
+blockquote {
+  margin: 0 auto;
+  padding: 1em;
+  border-left: 5px solid #19a6c7;
+}
+blockquote:before {
+  display: none;
+}
+blockquote:not(:first-of-type) {
+  margin-top: .5em;
+}
+blockquote q {
+  color: #96a2b2;
+  font-size: 14pt;
+  line-height: 1.4;
 
+}
+blockquote h3 {
+  color: #737373;
+}
+
+blockquote:nth-of-type(even) {
+  text-align: right;
+  border-left: none;
+  border-right: 5px solid #19a6c7;
+}
+
+/* fin nuestros valores quotebox*/
 /* ---------------------------------------------- Fin de estilos servicios -------------------------------------------------*/
 
 .servicios h3, h2 {
-  color: #007bff;
+  color: #19a6c7;
   font-weight: 600;
 }
 
 .servicios h4 {
-  text-decoration: underline #007bff; 
+  text-decoration: underline #19a6c7; 
 }
 
 .servicios ul {
@@ -436,6 +476,6 @@ main {
 }
 
 .servicios i {
-  color: #007bff;
+  color: #19a6c7;
 }
 /* ---------------------------------------------- Fin de estilos servicios -------------------------------------------------*/
