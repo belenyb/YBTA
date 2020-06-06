@@ -1,0 +1,37 @@
+Clientes
+[18:22, 5/6/2020] AYB: Metro Building
+[18:22, 5/6/2020] AYB: Contract
+[18:23, 5/6/2020] AYB: Fmax
+[18:25, 5/6/2020] AYB: Powen
+[18:25, 5/6/2020] AYB: Townhouse
+[18:25, 5/6/2020] AYB: Tenis lostalo
+[18:26, 5/6/2020] AYB: Temis
+[18:26, 5/6/2020] AYB: Coms
+[18:26, 5/6/2020] AYB: Craft
+[18:26, 5/6/2020] AYB: Thl
+[18:26, 5/6/2020] AYB: Overseas
+[18:26, 5/6/2020] AYB: Reef
+[18:28, 5/6/2020] AYB: Camconnection
+[18:28, 5/6/2020] AYB: Pantograb
+[18:29, 5/6/2020] AYB: Escuela Atahualpa
+[18:30, 5/6/2020] AYB: Estudiopr.ar
+[18:30, 5/6/2020] AYB: Bairescom
+[18:30, 5/6/2020] AYB: Urban Lot
+[18:30, 5/6/2020] AYB: Coldwell Banker
+[18:30, 5/6/2020] AYB: Altasur
+[18:31, 5/6/2020] AYB: Ksigma
+[18:31, 5/6/2020] AYB: Mad Construcciones
+[18:31, 5/6/2020] AYB: Expreso Hércules
+[18:31, 5/6/2020] AYB: Grúas Móviles Mix
+[18:35, 5/6/2020] AYB: Bosch Car Service - Evolución Automotriz
+[18:37, 5/6/2020] AYB: Automóviles San Jorge
+[18:38, 5/6/2020] AYB: Cfs
+[18:38, 5/6/2020] AYB: Defisa
+[18:38, 5/6/2020] AYB: Ecociudad
+[18:42, 5/6/2020] AYB: Hidrocarburos Argentinos
+[18:42, 5/6/2020] AYB: Walke
+[18:42, 5/6/2020] AYB: Jauser
+[18:43, 5/6/2020] AYB: Klae
+[18:45, 5/6/2020] AYB: Oikoss
+[18:47, 5/6/2020] AYB: Valuaciones y Garantías srl
+[18:47, 5/6/2020] AYB: Worl whises
