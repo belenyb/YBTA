@@ -12,9 +12,9 @@ dark(footer): #26272b
 -------------------------------------------------- */
 
 /* Carousel base class */
-.carousel {
+.carousel-inner {
   margin-bottom: 4rem;
-  background-color: rgba(0,0,0, 0.4);
+  background-color: rgba(0,0,0, 0.8);
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -31,14 +31,14 @@ dark(footer): #26272b
   height: 90vh;
 }
 .carousel-item img {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   min-width: 100%;
   height: 90vh;
-  opacity: 1.3;
-  -webkit-filter: blur(1px);
-  filter: blur(1px);
+  opacity: 0.6;
+  /*-webkit-filter: blur(0.8px);
+  filter: blur(0.8px);*/
 }
 
 
