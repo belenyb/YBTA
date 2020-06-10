@@ -1,8 +1,4 @@
 Mejoras:
-- Pagina de CV
-
-
--Nuestra firma -> poner logo 
 -Listado de clientes con carousel http://www.coms.com.ar/espanol
 -Links en navbar
 -Mejorar estilo de RAZONES FUNDAMENTALES PARA CONTRATARNOS
