@@ -1,11 +1,13 @@
 Mejoras:
 - Página de contacto con el mapa a lo largo: https://demo.hasthemes.com/karen-preview/karen/contact.html
 - Pagina de CV
--Barra de trabaja con nosotros encima de la navbar
--Cambiar boton linkedin por wpp
+
+
 -Nuestra firma -> poner logo 
 -Listado de clientes con carousel http://www.coms.com.ar/espanol
 -Links en navbar
 -Mejorar estilo de RAZONES FUNDAMENTALES PARA CONTRATARNOS
 
 -mini video de la pagina para pasar a baby
+
+-Barra de trabaja con nosotros encima de la navbar
