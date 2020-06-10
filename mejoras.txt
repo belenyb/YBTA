@@ -1,5 +1,4 @@
 Mejoras:
-- Página de contacto con el mapa a lo largo: https://demo.hasthemes.com/karen-preview/karen/contact.html
 - Pagina de CV
 
 
@@ -9,5 +8,3 @@ Mejoras:
 -Mejorar estilo de RAZONES FUNDAMENTALES PARA CONTRATARNOS
 
 -mini video de la pagina para pasar a baby
-
--Barra de trabaja con nosotros encima de la navbar
