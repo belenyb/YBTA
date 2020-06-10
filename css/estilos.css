@@ -466,7 +466,7 @@ blockquote:nth-of-type(even) {
 }
 
 /* fin nuestros valores quotebox*/
-/* ---------------------------------------------- Fin de estilos servicios -------------------------------------------------*/
+/* ---------------------------------------------- Inicio de estilos servicios -------------------------------------------------*/
 
 .servicios h3, h2 {
   color: #19a6c7;
@@ -483,5 +483,31 @@ blockquote:nth-of-type(even) {
 
 .servicios i {
   color: #19a6c7;
+}
+
+.card {
+  border: 0px !important;
+}
+
+.card-header {
+   border-radius: 5% !important;
+   border: 0px;
+   background-color: #e9ecef;
+}
+
+.card-header a {
+  color: #737373;
+  font-weight: 600;
+  font-size: large;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+.card-header:hover {
+	background-color: #e9ecefb7;
+}
+.card-header:active {
+	position:relative;
+  top:1px;
+  background-color: #e9ecef46;
 }
 /* ---------------------------------------------- Fin de estilos servicios -------------------------------------------------*/
