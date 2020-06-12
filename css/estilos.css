@@ -199,6 +199,9 @@ main {
   border-bottom:2px solid #737373a9;
 }
 
+.form span {
+  color: #737373;
+}
 .form p:before{
   content:attr(type);
   display:block;
