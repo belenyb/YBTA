@@ -1,4 +1,5 @@
 Mejoras:
+-Boton cargar CV
+-Probar una sombra en el navbar
+-Link en data fiscal
 
-
--mini video de la pagina para pasar a baby
