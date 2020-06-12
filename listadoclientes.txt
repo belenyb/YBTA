@@ -24,14 +24,14 @@ Clientes
 |x  | Expreso Hércules
 |  x| Grúas Móviles Mix
 |x  | Bosch Car Service - Evolución Automotriz
-|   | Automóviles San Jorge
-|   | Cfs
-|   | Defisa
-|   | Ecociudad
-|   | Hidrocarburos Argentinos
-|   | Walke
-|   | Jauser
-|   | Klae
-|   | Oikoss
-|   | Valuaciones y Garantías srl
-|   | World whises
+|x  | Automóviles San Jorge
+|x  | Cfs
+|x  | Defisa
+|x  | Ecociudad
+|x  | Hidrocarburos Argentinos
+|  x| Walke
+|x  | Jauser
+|x  | Klae
+|x  | Oikoss
+|x  | Valuaciones y Garantías srl
+|  x| World whises
