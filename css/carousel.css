@@ -12,7 +12,7 @@ dark(footer): #26272b
 -------------------------------------------------- */
 
 /* Carousel base class */
-.carousel-inner {
+.carousel-inner-index {
   margin-bottom: 4rem;
   background-color: rgba(0,0,0, 0.8);
 }
@@ -27,10 +27,10 @@ dark(footer): #26272b
 }
 
 /* Declare heights because of positioning of img element */
-.carousel-item {
+.carousel-item-index {
   height: 90vh;
 }
-.carousel-item img {
+.carousel-item-index img {
   position: relative;
   top: 0;
   left: 0;
@@ -101,4 +101,31 @@ rect {
     height: 100%;
 }
 
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-image: none;
+}
 
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 35px;
+  font-weight: 600;
+  color: #19a6c7;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 35px;
+  font-weight: 600;
+  color: #19a6c7;
+}
+
+/* ============================================= Inicio Estilos Client Slider ===================================================== */
+.clientes img {
+    width: 120px;
+    max-height: 160px;
+    vertical-align: middle;
+}
+/* ============================================= Fin Estilos Client Slider ======================================================== */

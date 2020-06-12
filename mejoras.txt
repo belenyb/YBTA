@@ -1,6 +1,5 @@
 Mejoras:
 -Listado de clientes con carousel http://www.coms.com.ar/espanol
--Links en navbar
 -Mejorar estilo de RAZONES FUNDAMENTALES PARA CONTRATARNOS
 
 -mini video de la pagina para pasar a baby
