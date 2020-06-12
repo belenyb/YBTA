@@ -1,29 +1,29 @@
 Clientes
-|   | Metro Building
-|   | Contract
-|   | Fmax
-|   | Powen
-|   | Townhouse
-|   | Tenis lostalo
-|   | Temis
-|   | Coms
-|   | Craft
-|   | Thl
-|   | Overseas
-|   | Reef
-|   | Camconnection
-|   | Pantograb
-|   | Escuela Atahualpa
-|   | Estudiopr.ar
-|   | Bairescom
-|   | Urban Lot
-|   | Coldwell Banker
-|   | Altasur
-|   | Ksigma
-|   | Mad Construcciones
-|   | Expreso Hércules
-|   | Grúas Móviles Mix
-|   | Bosch Car Service - Evolución Automotriz
+|x  | Metro Building
+|x  | Contract
+|x  | Fmax
+|x  | Powen
+|x  | Townhouse
+|x  | Temis lostalo
+|x  | Coms
+|x  | Craft
+|x  | Thl
+|x  | Overseas
+|x  | Reef
+|x  | Camconnection
+|x  | Pantograb
+
+|  x| Escuela Atahualpa
+|x  | Estudiopr.ar
+|  x| Bairescom
+|  x| Urban Lot
+|x  | Coldwell Banker
+|x  | Altasur
+|x  | Ksigma
+|  x| Mad Construcciones
+|x  | Expreso Hércules
+|  x| Grúas Móviles Mix
+|x  | Bosch Car Service - Evolución Automotriz
 |   | Automóviles San Jorge
 |   | Cfs
 |   | Defisa
@@ -34,4 +34,4 @@ Clientes
 |   | Klae
 |   | Oikoss
 |   | Valuaciones y Garantías srl
-|   | Worl whises
+|   | World whises

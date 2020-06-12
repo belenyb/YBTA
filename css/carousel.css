@@ -107,6 +107,10 @@ rect {
   background-image: none;
 }
 
+.carousel-control-prev, .carousel-control-next {
+  height: 170px;
+}
+
 .carousel-control-next-icon:after
 {
   content: '>';
@@ -123,9 +127,17 @@ rect {
 }
 
 /* ============================================= Inicio Estilos Client Slider ===================================================== */
+.clientes {
+  height: 300px;
+}
 .clientes img {
-    width: 120px;
-    max-height: 160px;
+    width: 140px;
+    max-height: 170px;
     vertical-align: middle;
+    filter: grayscale(100%);
+}
+
+.clientes img:hover {
+  filter: grayscale(0);
 }
 /* ============================================= Fin Estilos Client Slider ======================================================== */
