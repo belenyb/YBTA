@@ -64,6 +64,11 @@ body {
     }
 }
 
+ .activo a {
+    color: #053568 !important;
+    font-size: 1.1rem;
+}
+
 .nav-item:hover {
     border-bottom: 2.5px solid #19a6c7;
     color: #19a6c7;
