@@ -107,7 +107,7 @@ rect {
   background-image: none;
 }
 
-.carousel-control-prev, .carousel-control-next {
+.clientes .carousel-control-prev, .clientes .carousel-control-next {
   height: 170px;
 }
 

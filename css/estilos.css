@@ -64,6 +64,11 @@ body {
     }
 }
 
+ .activo a {
+    color: #053568 !important;
+    font-size: 1.1rem;
+}
+
 .nav-item:hover {
     border-bottom: 2.5px solid #19a6c7;
     color: #19a6c7;
@@ -148,6 +153,16 @@ main {
   box-shadow: 0 0 20px -10px #000;
 }
 
+.contacto li {
+  list-style: none;
+}
+
+.datosContacto {
+  padding-top: 20px;
+  margin-top: 5px;
+  color: #737373;
+}
+
 .contacto .form {
   width: 100%vh;
   height: 100%vh;
@@ -161,7 +176,7 @@ main {
   position: relative;
 }
 
-.form h2 {
+.contacto h2 {
   margin:10px 0;
   padding-bottom:10px;
   color:#737373a9;
