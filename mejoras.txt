@@ -1,5 +1,12 @@
 Mejoras:
--Boton cargar CV
--Probar una sombra en el navbar
--Link en data fiscal
+-Hacerlo responsivo
 
+Pedir:
+-Imágenes
+-Link data fiscal
+-Link skype
+-Mirá los logos y decinos si te parece que están bien así o ponemos más (faltan los de Bairescom,
+Urban Lot, etc).
+-Información de Gerente Impuestos
+-Mirá el tema de las fotos de Quienes Somos, quizá se puedan conseguir mejores.
+-Ver lo del newsletter.
