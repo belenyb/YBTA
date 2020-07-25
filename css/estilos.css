@@ -9,10 +9,6 @@ dark(footer): #26272b
 */
 
 body {
-    /* estilos para cuando definamos una foto de fondo 
-    background: url(../images/fondo.yb.jpg);
-    background-size: cover;
-    height: 100vh; */
     background-color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
     padding-top: 4rem;
@@ -20,7 +16,7 @@ body {
 
 @media (max-width: 768px) {
   body {
-    padding-top: 4.6rem;
+    padding-top: 3.6rem;
   }
 }
 
@@ -42,6 +38,12 @@ body {
   font-style: italic;
   line-height: 0.8em;
   text-shadow: initial;
+}
+
+@media (max-width: 768px) {
+  .slogan h5 {
+    font-size: 16px;
+  }
 }
 /* ________________________________________________________ Clientes ____________________________________________________________ */
 
@@ -496,6 +498,12 @@ blockquote:nth-of-type(even) {
   font-weight: 600;
 }
 
+@media (max-width: 768px) {
+  .servicios h2 {
+    font-size: 23px;
+  }
+}
+
 .servicios h4 {
   text-decoration: underline #19a6c7; 
 }
@@ -534,3 +542,21 @@ blockquote:nth-of-type(even) {
   background-color: #e9ecef46;
 }
 /* ---------------------------------------------- Fin de estilos servicios -------------------------------------------------*/
+
+/* =================================================== Nuestra Firma =======================================================*/
+
+.firma .TextWrap {
+  float: right;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  width: 21%;
+}
+
+@media (max-width: 768px) {
+  .firma .TextWrap {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  width: 37%;
+  }
+}
