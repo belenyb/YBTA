@@ -128,6 +128,10 @@ rect {
 }
 
 /* ============================================= Inicio Estilos Client Slider ===================================================== */
+.clientes {
+  height: 250px;
+}
+
 .clientes img {
     width: 140px;
     max-height: 170px;
@@ -140,6 +144,7 @@ rect {
 }
 
 @media (max-width: 768px) {
+
   .clientes h3 {
     font-size: 20px;
   }
@@ -157,8 +162,6 @@ rect {
   .carousel-control-next-icon:after {
     font-size: 25px;
   }
-  .clientes img {
-  filter: none;
-  }
+  
 }
 /* ============================================= Fin Estilos Client Slider ======================================================== */
